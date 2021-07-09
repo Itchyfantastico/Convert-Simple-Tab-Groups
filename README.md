@@ -8,4 +8,4 @@ Convert a backup of Simple Tab Groups into a Tab Stash compatible file
 5. A text file will be created in the same folder
 5. Copy the content of the text file into the import option in Tab Stash
   
-I tested this with both Addons in Firefox.
+I tested this with both addons in Firefox.
